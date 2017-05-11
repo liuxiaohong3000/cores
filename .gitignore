@@ -1,0 +1,5 @@
+*.idea*
+*.idea/encodings*
+*.idea/copyright*
+*.idea/libraries*
+*.idea/libraries/Maven*
